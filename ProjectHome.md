@@ -1,0 +1,1 @@
+implementacion de sudoku con algorimtos geneticos, y frameworks para este motivo
